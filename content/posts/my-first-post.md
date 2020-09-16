@@ -94,6 +94,4 @@ git push -u origin master
 
 ##### 10. 在 github 仓库页面点击 settings
 
-![3fce9cfe60eea7243db6a1a1a8e9d3e3.png](en-resource://database/1360:0)
-
 找到 github pages 栏目， 点击网址即可进入你的博客网站。
