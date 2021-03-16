@@ -50,6 +50,13 @@ echo 'theme = "ananke"' >> config.toml
 ```shell
 hugo new posts/my-first-post.md
 ```
+
+使用命令行打开md文件：
+
+```java
+code .
+```
+
 文件头： 
 
        
@@ -59,7 +66,7 @@ hugo new posts/my-first-post.md
     draft: true
     ---
     
-要把 draft 草稿改成 true，这样就可以把这个文件放出来。这个文件是网站的首页。
+要把 draft 草稿改成 true，这样就可以把这个文件放出来。接下来复制你的文本内容进入这个文件并且保存。
     
 ##### 5. 启动服务器
         
